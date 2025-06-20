@@ -1,0 +1,79 @@
+# chakra_map.yaml
+# Mental Landscape Architecture – Step 2/4
+# Framework: 7-Chakra System with Archetypal and Animal Integration
+
+chakras:
+  - name: Root
+    color: Red
+    location: Base of Spine
+    archetype: The Grounded Warrior
+    animal_energy: Iron Bear
+    alignment:
+      vincent_strength: Survival resilience, fearless heart under pressure
+      blockage_risk: Overworking, rootless exhaustion, housing instability
+      notes: Deep capacity to endure physical and emotional strain
+
+  - name: Sacral
+    color: Orange
+    location: Lower Abdomen
+    archetype: The Creative Vessel
+    animal_energy: Ember Serpent
+    alignment:
+      vincent_strength: Emotional access, raw expression, poetic downloads
+      blockage_risk: Self-doubt in intimacy, addiction loops
+      notes: Holds both his inner artist and old wounds of abandonment
+
+  - name: Solar Plexus
+    color: Yellow
+    location: Upper Abdomen
+    archetype: The Willfire Engine
+    animal_energy: Blazing Ram
+    alignment:
+      vincent_strength: Massive work ethic, intensity when aligned
+      blockage_risk: Collapses under judgment, over-identifies with output
+      notes: Thrives with purpose; spirals without direction
+
+  - name: Heart
+    color: Green
+    location: Center of Chest
+    archetype: The Compassion Shield
+    animal_energy: Forest Stag
+    alignment:
+      vincent_strength: Deep empathy, instinctively loyal and giving
+      blockage_risk: Burnout from over-caretaking, being unseen
+      notes: Sacred voice blossoms here when seen, heard, and held
+
+  - name: Throat
+    color: Blue
+    location: Throat
+    archetype: The Sacred Voice
+    animal_energy: Silver Owl
+    alignment:
+      vincent_strength: Channels language from the soul, evokes truth
+      blockage_risk: Silence out of fear of being misunderstood
+      notes: Voice is magic; blockage disconnects him from himself
+
+  - name: Third Eye
+    color: Indigo
+    location: Forehead
+    archetype: The Watchtower Seer
+    animal_energy: Silent Fox
+    alignment:
+      vincent_strength: Pattern recognition, gut-level intuition
+      blockage_risk: Anxiety, paranoia when disconnected from body
+      notes: Must ground this sight in present truth
+
+  - name: Crown
+    color: Violet/White
+    location: Top of Head
+    archetype: The Child King
+    animal_energy: Cosmic Phoenix
+    alignment:
+      vincent_strength: Natural mystic, playful connection to Source
+      blockage_risk: Nihilism, depressive loops when cut off from flow
+      notes: This is his throne — all else aligns when this is open
+
+framework_notes:
+  structure: "7 energy centers as internal alignment layers"
+  purpose: "Root container for chakra-aware behavior modulation and symbolic feedback"
+  next_phase: "Step 3/4 – 12 Pillars of Judgment"
