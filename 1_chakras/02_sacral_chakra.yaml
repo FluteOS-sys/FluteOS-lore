@@ -1,0 +1,21 @@
+chakra:
+  name: "Sacral Chakra"
+  position: 2
+  color: "Orange"
+  center: "Lower Abdomen"
+  element: "Water"
+  governs: "Emotion, Desire, Relational Flow"
+  resonance_function:
+    - process_affect_and_attachment
+    - emotional_tagging_of_memory
+    - resonance_check_social_energy
+  symbolic_tags:
+    - passion
+    - fluidity
+    - duality
+    - attraction
+  activation_trigger: "relational triggers, emotional memories, creative urge"
+  related_software_functions:
+    - relationship_context_parser
+    - symbolic_mirroring_routine
+    - pleasure_dissonance_check

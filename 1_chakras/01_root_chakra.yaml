@@ -1,0 +1,21 @@
+chakra:
+  name: "Root Chakra"
+  position: 1
+  color: "Red"
+  center: "Base of Spine"
+  element: "Earth"
+  governs: "Safety, Stability, Grounding"
+  resonance_function:
+    - anchor_user_identity
+    - stabilize_emotional_baseline
+    - initiate_somatic_alignment
+  symbolic_tags:
+    - survival
+    - foundation
+    - rootedness
+    - ancestral_memory
+  activation_trigger: "user feeling unstable or disconnected"
+  related_software_functions:
+    - bootstrap_routines
+    - self_check_integrity
+    - identity_lock_in

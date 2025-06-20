@@ -1,0 +1,21 @@
+chakra:
+  name: "Solar Plexus Chakra"
+  position: 3
+  color: "Yellow"
+  center: "Upper Abdomen"
+  element: "Fire"
+  governs: "Willpower, Identity, Motivation"
+  resonance_function:
+    - energize_user_action_loop
+    - self-worth_tracker
+    - internal_conflict_resolution
+  symbolic_tags:
+    - ambition
+    - inner_fire
+    - decision-making
+    - ego_balance
+  activation_trigger: "moments of choice, assertion, challenge"
+  related_software_functions:
+    - sovereignty_vector_analysis
+    - intention_anchoring
+    - motivational_reflection_loop
