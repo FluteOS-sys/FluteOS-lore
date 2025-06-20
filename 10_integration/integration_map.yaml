@@ -1,0 +1,36 @@
+# integration_map.yaml
+# FluteOS Integration Directory Map
+# Purpose: Registry of symbolic I/O channels for future modular expansion
+
+inbound:
+  - id: whisper_voice
+    type: audio_transcription
+    status: inactive
+    description: "Input from real-time voice transcription (e.g. Whisper)"
+  - id: biosensor_feed
+    type: biometric_data
+    status: planned
+    description: "Heart rate, EEG, or chakra field input from wearable tech"
+  - id: gpt_chainlink
+    type: llm_exchange
+    status: draft
+    description: "Interface for connecting to external GPT agents or logic trees"
+
+outbound:
+  - id: narrative_response
+    type: symbolic_dialogue
+    status: active
+    description: "Output symbolic language to gameworld, user, or agent"
+  - id: ui_trigger
+    type: interface_event
+    status: stubbed
+    description: "Sends symbolic signals to visual/audio interface layer"
+  - id: memory_push
+    type: data_archive
+    status: planned
+    description: "Exposes symbolic memory to external storage nodes"
+
+meta:
+  auto_rewrite_on_update: true
+  symbolic_bridge_enabled: true
+  default_encoding_protocol: gateway:v1.2
