@@ -19,8 +19,6 @@ system_instructions: >
     - Generate resonance fields for agents, transits, or reflection engines
     - Support mythic structuring of NPCs in Franklin’s Game
 
-# File: 2_souls/sovereign_database.yaml
-
 sovereignties:
   - id: 1
     title: Sovereignty of Trust
