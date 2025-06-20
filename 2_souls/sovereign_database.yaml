@@ -1,0 +1,744 @@
+meta:
+  type: "sovereignty_database"
+  author: "Vincent Cricelli"
+  purpose: >
+    This file defines the 72 Sovereignties of Human Agency — fundamental expressions of psycho-spiritual freedom.
+    Each sovereignty reflects a universal power that can manifest in light or shadow.
+    These are used to:
+      - Train the symbolic neuron network on human behavior
+      - Guide the AMS Core in resonance pattern recognition
+      - Shape NPCs and narrative structure in the game world
+      - Serve as a foundation for user reflection and mirroring
+system_instructions: >
+  This file defines the full spectrum of human agency and choice.
+  Each Sovereignty represents a unique freedom — the right to act, feel, and embody a specific expression of will.
+  These are not personality traits, but domains of volitional movement.
+  Use these to:
+    - Interpret symbolic behavior patterns
+    - Understand dual potentials (light + shadow) in human conduct
+    - Generate resonance fields for agents, transits, or reflection engines
+    - Support mythic structuring of NPCs in Franklin’s Game
+
+# File: 2_souls/sovereign_database.yaml
+
+sovereignties:
+  - id: 1
+    title: Sovereignty of Trust
+    core_freedom: The freedom to place faith in another, in life, or in the unseen.
+    dual_potential: ["Faith", "Delusion"]
+    associated_domains: ["relationships", "spiritual belief", "trauma recovery"]
+    examples:
+      aligned: "Choosing to forgive someone without losing self-protection."
+      distorted: "Ignoring red flags because of a need to believe in a fantasy."
+    symbolic_reference: "The Fool (Tarot), Pisces, Anahata (Heart)"
+
+  - id: 2
+    title: Sovereignty of Boundaries
+    core_freedom: The right to define your edges — physically, emotionally, energetically.
+    dual_potential: ["Protection", "Isolation"]
+    associated_domains: ["trauma response", "emotional health", "communication"]
+    examples:
+      aligned: "Saying no clearly and calmly, without guilt."
+      distorted: "Cutting off connection to avoid discomfort."
+    symbolic_reference: "Saturn, The Hermit (Tarot), Muladhara (Root)"
+
+  - id: 3
+    title: Sovereignty of Desire
+    core_freedom: The freedom to want, hunger, chase, burn.
+    dual_potential: ["Motivation", "Addiction"]
+    associated_domains: ["sex", "ambition", "consumption", "drive"]
+    examples:
+      aligned: "Pursuing a creative goal with devotion."
+      distorted: "Fixating on something to avoid emptiness."
+    symbolic_reference: "Mars, Kama (Hindu concept), Svadhisthana (Sacral)"
+
+  - id: 4
+    title: Sovereignty of Silence
+    core_freedom: The right to hold stillness, secrecy, or internal space.
+    dual_potential: ["Inner wisdom", "Avoidance"]
+    associated_domains: ["spirituality", "intuition", "self-trust"]
+    examples:
+      aligned: "Taking time before reacting in a hard conversation."
+      distorted: "Withholding truth to avoid vulnerability."
+    symbolic_reference: "The High Priestess (Tarot), Neptune, Ajna (Third Eye)"
+
+  - id: 5
+    title: Sovereignty of Expression
+    core_freedom: The right to speak, sing, create, and name your world.
+    dual_potential: ["Authenticity", "Oversharing"]
+    associated_domains: ["speech", "art", "social media", "public presence"]
+    examples:
+      aligned: "Sharing your truth with poetic honesty."
+      distorted: "Blurting pain to get attention."
+    symbolic_reference: "Mercury, Vishuddha (Throat), Leo"
+
+  - id: 6
+    title: Sovereignty of Devotion
+    core_freedom: The ability to align deeply with a cause, a person, or a path.
+    dual_potential: ["Loyalty", "Codependency"]
+    associated_domains: ["spirituality", "relationships", "long-term service"]
+    examples:
+      aligned: "Supporting a partner’s growth journey with care and patience."
+      distorted: "Sacrificing your soul to keep someone from leaving."
+    symbolic_reference: "Venus, The Lovers (Tarot), Anahata (Heart)"
+
+  - id: 7
+    title: Sovereignty of Movement
+    core_freedom: The freedom to shift, wander, dance, and run.
+    dual_potential: ["Exploration", "Escape"]
+    associated_domains: ["travel", "nervous system", "addiction cycles"]
+    examples:
+      aligned: "Following a pull to relocate and begin anew."
+      distorted: "Constantly changing jobs to avoid stability."
+    symbolic_reference: "Sagittarius, Mercury Rx, Svadhisthana (Sacral)"
+
+  - id: 8
+    title: Sovereignty of Story
+    core_freedom: The power to shape the narrative of your life.
+    dual_potential: ["Mythic framing", "Victimhood"]
+    associated_domains: ["therapy", "memoir", "identity"]
+    examples:
+      aligned: "Owning your journey as a story of becoming."
+      distorted: "Retelling pain to justify harmful patterns."
+    symbolic_reference: "Gemini, 3rd House, The Moon (Tarot)"
+
+  - id: 9
+    title: Sovereignty of Will
+    core_freedom: The ability to choose, to act, and to commit.
+    dual_potential: ["Initiative", "Control"]
+    associated_domains: ["goal setting", "masculinity", "spiritual warfare"]
+    examples:
+      aligned: "Taking action with heart and discernment."
+      distorted: "Forcing a situation to go your way."
+    symbolic_reference: "Aries, Mars, Manipura (Solar Plexus)"
+
+  - id: 10
+    title: Sovereignty of Suffering
+    core_freedom: The right to grieve, feel pain, and not rush your healing.
+    dual_potential: ["Depth", "Stagnation"]
+    associated_domains: ["trauma", "shadow work", "ritual"]
+    examples:
+      aligned: "Letting yourself weep without apology."
+      distorted: "Clinging to sorrow to avoid growth."
+    symbolic_reference: "Pluto, Scorpio, The Tower (Tarot)"
+
+  - id: 11
+    title: Sovereignty of Creation
+    core_freedom: The power to make something that never existed before.
+    dual_potential: ["Innovation", "Ego inflation"]
+    associated_domains: ["art", "business", "technology", "ritual design"]
+    examples:
+      aligned: "Building something for the joy of the process."
+      distorted: "Creating to prove your worth."
+    symbolic_reference: "Uranus, Leo, Vishuddha (Throat)"
+
+  - id: 12
+    title: Sovereignty of Connection
+    core_freedom: The right to belong, bond, and merge with others.
+    dual_potential: ["Intimacy", "Enmeshment"]
+    associated_domains: ["relationships", "family", "teamwork"]
+    examples:
+      aligned: "Letting someone into your life slowly, with care."
+      distorted: "Losing yourself in someone else's identity."
+    symbolic_reference: "Cancer, Venus, Anahata (Heart)"
+# File: 2_souls/sovereign_database.yaml
+
+  - id: 13
+    title: Sovereignty of Rhythm
+    core_freedom: The right to move in cycles, to rise and rest, to flow with time instead of against it.
+    dual_potential: ["Attunement", "Disregulation"]
+    associated_domains: ["sleep", "productivity", "emotional cycles", "nature"]
+    examples:
+      aligned: "Listening to your body and adjusting your work-rest balance accordingly."
+      distorted: "Ignoring burnout signs in pursuit of arbitrary goals."
+    symbolic_reference: "Moon cycles, Circadian flow, Cancer"
+
+  - id: 14
+    title: Sovereignty of Chaos
+    core_freedom: The freedom to disrupt, to fracture order in service of creation or change.
+    dual_potential: ["Rebirth", "Destruction"]
+    associated_domains: ["creativity", "revolution", "trauma", "spiritual awakening"]
+    examples:
+      aligned: "Breaking an outdated system to build something better."
+      distorted: "Burning everything down when frightened by change."
+    symbolic_reference: "Uranus, The Tower (Tarot), Kali"
+
+  - id: 15
+    title: Sovereignty of Order
+    core_freedom: The right to bring coherence, structure, and stability to experience.
+    dual_potential: ["Clarity", "Control"]
+    associated_domains: ["routine", "law", "family systems", "tradition"]
+    examples:
+      aligned: "Establishing daily rituals to support your nervous system."
+      distorted: "Imposing rigid expectations on self or others."
+    symbolic_reference: "Saturn, The Emperor, Capricorn"
+
+  - id: 16
+    title: Sovereignty of Humor
+    core_freedom: The freedom to laugh, to deflate intensity, and to subvert pain with levity.
+    dual_potential: ["Healing", "Deflection"]
+    associated_domains: ["social bonding", "coping mechanisms", "comedy"]
+    examples:
+      aligned: "Using humor to bring people together in hard moments."
+      distorted: "Mocking yourself or others to avoid vulnerability."
+    symbolic_reference: "Mercury, Gemini, The Fool (Tarot)"
+
+  - id: 17
+    title: Sovereignty of Bound Will
+    core_freedom: The ability to act within limits — accepting constraints while maintaining direction.
+    dual_potential: ["Surrendered Discipline", "Resigned Stagnation"]
+    associated_domains: ["addiction recovery", "spiritual path", "military service"]
+    examples:
+      aligned: "Choosing a recovery path that limits but empowers you."
+      distorted: "Giving up your will entirely and blaming others for outcomes."
+    symbolic_reference: "Pisces, Neptune, The Hanged Man"
+
+  - id: 18
+    title: Sovereignty of Surrender
+    core_freedom: The freedom to release control — to let life move you instead of forcing it.
+    dual_potential: ["Trust", "Collapse"]
+    associated_domains: ["grief", "faith", "letting go", "divine timing"]
+    examples:
+      aligned: "Releasing an outcome after doing all you can."
+      distorted: "Shutting down and refusing to try due to fear of loss."
+    symbolic_reference: "Water element, The Star (Tarot), Ajna (Third Eye)"
+
+  - id: 19
+    title: Sovereignty of Sight
+    core_freedom: The ability to perceive deeply — to see what others miss or deny.
+    dual_potential: ["Insight", "Judgment"]
+    associated_domains: ["intuition", "pattern recognition", "visionary strategy"]
+    examples:
+      aligned: "Noticing trends in behavior and adjusting course early."
+      distorted: "Making assumptions without context and calling it ‘truth.’"
+    symbolic_reference: "Third Eye, Raven, Aquarius"
+
+  - id: 20
+    title: Sovereignty of Listening
+    core_freedom: The freedom to receive — to witness without needing to respond or fix.
+    dual_potential: ["Presence", "Absorption"]
+    associated_domains: ["counseling", "music", "relationships"]
+    examples:
+      aligned: "Letting a friend vent without jumping to solve their problem."
+      distorted: "Absorbing another’s emotions and losing your own center."
+    symbolic_reference: "Whale, Mercury Rx, Throat Chakra"
+
+  - id: 21
+    title: Sovereignty of Curiosity
+    core_freedom: The freedom to question, to wander, to explore.
+    dual_potential: ["Discovery", "Distraction"]
+    associated_domains: ["learning", "technology", "spiritual seeking"]
+    examples:
+      aligned: "Exploring a new philosophy with open-minded excitement."
+      distorted: "Jumping between belief systems to avoid depth."
+    symbolic_reference: "Sagittarius, Gemini, The Page (Tarot)"
+
+  - id: 22
+    title: Sovereignty of Doubt
+    core_freedom: The right to question what you’ve been told — even by yourself.
+    dual_potential: ["Discernment", "Paralysis"]
+    associated_domains: ["faith", "critical thinking", "mental health"]
+    examples:
+      aligned: "Pausing before making a major choice to check your motives."
+      distorted: "Overanalyzing until you can’t make a decision."
+    symbolic_reference: "Scorpio, The Moon (Tarot), Saturn Rx"
+
+  - id: 23
+    title: Sovereignty of Imagination
+    core_freedom: The power to envision what does not yet exist.
+    dual_potential: ["Vision", "Fantasy"]
+    associated_domains: ["dreamwork", "worldbuilding", "art"]
+    examples:
+      aligned: "Sketching a future version of your life with hope."
+      distorted: "Escaping into unreality to avoid responsibility."
+    symbolic_reference: "Pisces, Neptune, The Magician"
+
+  - id: 24
+    title: Sovereignty of Perception
+    core_freedom: The freedom to interpret what you experience through your own lens.
+    dual_potential: ["Personal truth", "Cognitive distortion"]
+    associated_domains: ["mental models", "healing narratives", "conflict resolution"]
+    examples:
+      aligned: "Honoring your feelings while acknowledging others’ perspectives."
+      distorted: "Rewriting reality to avoid accountability."
+    symbolic_reference: "Air element, Libra, Mirrors"
+
+  - id: 25
+    title: Sovereignty of Vulnerability
+    core_freedom: The right to be soft, exposed, and real without punishment or shame.
+    dual_potential: ["Connection", "Wounding"]
+    associated_domains: ["relationships", "grief", "healing", "identity"]
+    examples:
+      aligned: "Admitting you're scared and letting someone hold space for you."
+      distorted: "Oversharing as a cry for help with no boundaries."
+    symbolic_reference: "Heart Chakra, Cancer, The Moon"
+
+  - id: 26
+    title: Sovereignty of Defense
+    core_freedom: The power to guard the self, the body, or the sacred against harm.
+    dual_potential: ["Protection", "Isolation"]
+    associated_domains: ["boundaries", "resistance", "self-preservation"]
+    examples:
+      aligned: "Saying no when something doesn't feel right in your body."
+      distorted: "Blocking out every form of intimacy to avoid pain."
+    symbolic_reference: "Mars, Root Chakra, The Chariot"
+
+  - id: 27
+    title: Sovereignty of Trustworthiness
+    core_freedom: The ability to become someone others can rely on — to hold your word as bond.
+    dual_potential: ["Integrity", "People-Pleasing"]
+    associated_domains: ["loyalty", "promises", "reputation"]
+    examples:
+      aligned: "Following through on a commitment even when it’s uncomfortable."
+      distorted: "Saying yes to avoid disappointing someone."
+    symbolic_reference: "Saturn, Virgo, Knight of Pentacles"
+
+  - id: 28
+    title: Sovereignty of Power
+    core_freedom: The capacity to direct energy, influence systems, and reshape reality.
+    dual_potential: ["Empowerment", "Domination"]
+    associated_domains: ["leadership", "politics", "magic", "personal agency"]
+    examples:
+      aligned: "Using your authority to uplift those with less voice."
+      distorted: "Controlling others to soothe your own insecurity."
+    symbolic_reference: "Pluto, Solar Plexus, The Emperor"
+
+  - id: 29
+    title: Sovereignty of Disruption
+    core_freedom: The right to interrupt the status quo when it no longer serves truth or healing.
+    dual_potential: ["Revolution", "Recklessness"]
+    associated_domains: ["activism", "innovation", "trauma release"]
+    examples:
+      aligned: "Calling out injustice even when it costs you comfort."
+      distorted: "Starting conflict without discernment just to feel powerful."
+    symbolic_reference: "Uranus, The Tower, Lightning archetypes"
+
+  - id: 30
+    title: Sovereignty of Restoration
+    core_freedom: The sacred ability to rebuild, restore, and reclaim what was lost.
+    dual_potential: ["Renewal", "Denial"]
+    associated_domains: ["trauma healing", "conflict resolution", "forgiveness"]
+    examples:
+      aligned: "Working through relational harm with time and care."
+      distorted: "Pretending things are fine without doing the inner work."
+    symbolic_reference: "Water, The Star (Tarot), Phoenix mythos"
+
+  - id: 31
+    title: Sovereignty of Memory
+    core_freedom: The capacity to remember — to hold history and allow it to shape meaning.
+    dual_potential: ["Wisdom", "Stagnation"]
+    associated_domains: ["ancestry", "trauma", "nostalgia", "lineage"]
+    examples:
+      aligned: "Honoring past experiences while allowing yourself to grow."
+      distorted: "Replaying the past in your mind as if it’s still happening."
+    symbolic_reference: "Cancer, Scorpio, Akashic records"
+
+  - id: 32
+    title: Sovereignty of Presence
+    core_freedom: The right to exist fully in the now — rooted, aware, and awake.
+    dual_potential: ["Embodiment", "Avoidance"]
+    associated_domains: ["mindfulness", "anxiety", "ritual"]
+    examples:
+      aligned: "Letting go of distractions to be with someone in pain."
+      distorted: "Constantly moving or talking to avoid stillness."
+    symbolic_reference: "Taurus, Earth, Root Chakra"
+
+  - id: 33
+    title: Sovereignty of Hope
+    core_freedom: The right to believe in better — to move toward possibility even in darkness.
+    dual_potential: ["Courage", "Delusion"]
+    associated_domains: ["faith", "recovery", "future-building"]
+    examples:
+      aligned: "Keeping a vision alive despite setbacks."
+      distorted: "Refusing to acknowledge pain in the name of 'positivity.'"
+    symbolic_reference: "Jupiter, The Sun, Morning Star"
+
+  - id: 34
+    title: Sovereignty of Shame
+    core_freedom: The power to feel internal misalignment — and use it to course-correct.
+    dual_potential: ["Humility", "Self-erasure"]
+    associated_domains: ["morality", "conscience", "shadow work"]
+    examples:
+      aligned: "Owning a mistake and making amends."
+      distorted: "Believing you’re broken or unlovable because of your past."
+    symbolic_reference: "Saturn, Scorpio, 8th House"
+
+  - id: 35
+    title: Sovereignty of Anger
+    core_freedom: The freedom to burn — to express outrage, to demand change.
+    dual_potential: ["Protection", "Destruction"]
+    associated_domains: ["justice", "trauma response", "boundary violation"]
+    examples:
+      aligned: "Naming injustice with heat and precision."
+      distorted: "Lashing out at loved ones instead of naming your pain."
+    symbolic_reference: "Aries, Mars, Fire element"
+
+  - id: 36
+    title: Sovereignty of Forgiveness
+    core_freedom: The sacred power to let go — to release resentment and reclaim peace.
+    dual_potential: ["Healing", "Self-betrayal"]
+    associated_domains: ["relationships", "healing", "closure"]
+    examples:
+      aligned: "Forgiving someone for your own liberation, not theirs."
+      distorted: "Pretending something didn’t hurt just to move on faster."
+    symbolic_reference: "Pisces, Heart Chakra, Water element"
+ 
+  - id: 37
+    title: Sovereignty of Silence
+    core_freedom: The right to withhold words, to let stillness speak.
+    dual_potential: ["Wisdom", "Withdrawal"]
+    associated_domains: ["solitude", "meditation", "restraint"]
+    examples:
+      aligned: "Choosing not to respond in anger, allowing time to settle your energy."
+      distorted: "Avoiding communication out of fear or discomfort."
+    symbolic_reference: "Hermit (Tarot), Void, Saturn Rx"
+
+  - id: 38
+    title: Sovereignty of Expression
+    core_freedom: The right to give voice to one’s truth — raw, artistic, or unfiltered.
+    dual_potential: ["Liberation", "Overexposure"]
+    associated_domains: ["speech", "art", "self-disclosure"]
+    examples:
+      aligned: "Sharing your story to inspire others."
+      distorted: "Broadcasting pain without awareness of impact."
+    symbolic_reference: "Throat Chakra, Mercury, Leo"
+
+  - id: 39
+    title: Sovereignty of Mystery
+    core_freedom: The permission to not explain yourself — to live with unanswered questions.
+    dual_potential: ["Sacred Privacy", "Avoidance"]
+    associated_domains: ["spirituality", "death", "the unknown"]
+    examples:
+      aligned: "Allowing grief to unfold without trying to 'figure it out.'"
+      distorted: "Withholding clarity to maintain power over others."
+    symbolic_reference: "Neptune, Scorpio, The High Priestess"
+
+  - id: 40
+    title: Sovereignty of Discipline
+    core_freedom: The will to act consistently in alignment with your highest aim.
+    dual_potential: ["Mastery", "Rigidity"]
+    associated_domains: ["training", "habit", "goal achievement"]
+    examples:
+      aligned: "Maintaining a daily practice even when motivation fades."
+      distorted: "Punishing yourself when you fall short."
+    symbolic_reference: "Saturn, Capricorn, Martial Arts"
+
+  - id: 41
+    title: Sovereignty of Play
+    core_freedom: The ability to engage with life as a game — to explore joy without agenda.
+    dual_potential: ["Vitality", "Avoidance"]
+    associated_domains: ["creativity", "fun", "youth"]
+    examples:
+      aligned: "Dancing freely in your living room after a long day."
+      distorted: "Using humor to avoid serious conversations."
+    symbolic_reference: "Inner Child, The Fool, Leo"
+
+  - id: 42
+    title: Sovereignty of Sacrifice
+    core_freedom: The power to give something up in service of something greater.
+    dual_potential: ["Devotion", "Martyrdom"]
+    associated_domains: ["parenting", "service", "rites of passage"]
+    examples:
+      aligned: "Letting go of ego to support someone’s healing."
+      distorted: "Neglecting your own needs to seem 'good' or worthy."
+    symbolic_reference: "Pisces, Neptune, The Hanged Man"
+
+  - id: 43
+    title: Sovereignty of Death
+    core_freedom: The right to end cycles — to release identities, relationships, or illusions.
+    dual_potential: ["Transformation", "Obsession"]
+    associated_domains: ["grief", "rebirth", "letting go"]
+    examples:
+      aligned: "Shedding a persona that no longer reflects who you are."
+      distorted: "Replaying endings so often they haunt your present."
+    symbolic_reference: "Scorpio, Pluto, Samhain"
+
+  - id: 44
+    title: Sovereignty of Birth
+    core_freedom: The capacity to begin again — to step into something new without permission.
+    dual_potential: ["Creation", "Naivety"]
+    associated_domains: ["identity", "initiation", "risk-taking"]
+    examples:
+      aligned: "Starting a project that excites you despite fear of failure."
+      distorted: "Forcing new beginnings without completing the past."
+    symbolic_reference: "Aries, Spring Equinox, The Fool"
+
+  - id: 45
+    title: Sovereignty of Ritual
+    core_freedom: The ability to infuse meaning into action through repetition and reverence.
+    dual_potential: ["Sacred Anchor", "Obsessive Routine"]
+    associated_domains: ["spirituality", "habit", "ceremony"]
+    examples:
+      aligned: "Lighting a candle each morning to set your intention."
+      distorted: "Clinging to rituals out of fear rather than love."
+    symbolic_reference: "Taurus, Earth Magic, Virgo Moon"
+
+  - id: 46
+    title: Sovereignty of Shadow
+    core_freedom: The freedom to acknowledge, engage, and integrate one’s darker aspects.
+    dual_potential: ["Wholeness", "Self-sabotage"]
+    associated_domains: ["inner work", "projections", "ego"]
+    examples:
+      aligned: "Owning your jealousy without letting it control you."
+      distorted: "Projecting your shame onto others."
+    symbolic_reference: "Scorpio, Pluto, Jungian Psychology"
+
+  - id: 47
+    title: Sovereignty of Light
+    core_freedom: The capacity to shine, to radiate, to embody grace and presence unapologetically.
+    dual_potential: ["Inspiration", "Ego inflation"]
+    associated_domains: ["leadership", "confidence", "self-love"]
+    examples:
+      aligned: "Owning your power while encouraging others to rise."
+      distorted: "Using your gifts to dominate or dismiss others."
+    symbolic_reference: "Sun, Leo, The Star"
+
+  - id: 48
+    title: Sovereignty of Story
+    core_freedom: The ability to shape your life through narrative — to choose meaning over chaos.
+    dual_potential: ["Mythic Meaning", "Delusion"]
+    associated_domains: ["trauma healing", "personal growth", "spiritual journey"]
+    examples:
+      aligned: "Reframing a painful event as a turning point."
+      distorted: "Constructing a false self to avoid pain."
+    symbolic_reference: "Gemini, The Magician, Hero’s Journey"
+
+  - id: 49
+    title: Sovereignty of Listening
+    core_freedom: The power to receive fully — without interrupting, fixing, or controlling.
+    dual_potential: ["Attunement", "Absorption"]
+    associated_domains: ["relationship", "conflict resolution", "presence"]
+    examples:
+      aligned: "Holding space while someone shares hard truths."
+      distorted: "Losing your voice by always giving others the floor."
+    symbolic_reference: "Water, Cancer, The Empress"
+
+  - id: 50
+    title: Sovereignty of Knowing
+    core_freedom: The ability to sense truth without proof — intuitive intelligence.
+    dual_potential: ["Wisdom", "Projection"]
+    associated_domains: ["intuition", "inner voice", "pattern recognition"]
+    examples:
+      aligned: "Acting on a gut feeling that proves true."
+      distorted: "Assuming you’re right without checking facts."
+    symbolic_reference: "Pisces, 12th House, Crown Chakra"
+
+  - id: 51
+    title: Sovereignty of Choice
+    core_freedom: The sacred power to decide — to claim your yes and your no.
+    dual_potential: ["Empowerment", "Indecision"]
+    associated_domains: ["agency", "freedom", "values"]
+    examples:
+      aligned: "Making a decision even when there’s no perfect option."
+      distorted: "Delaying action until the moment has passed."
+    symbolic_reference: "Gemini, Libra, The Lovers"
+
+  - id: 52
+    title: Sovereignty of Humor
+    core_freedom: The capacity to bring levity, absurdity, and joy into dark or heavy spaces.
+    dual_potential: ["Relief", "Deflection"]
+    associated_domains: ["healing", "comedy", "expression"]
+    examples:
+      aligned: "Using laughter to release grief without avoiding it."
+      distorted: "Mocking yourself to avoid being vulnerable."
+    symbolic_reference: "Mercury, Air element, Trickster archetype"
+
+  - id: 53
+    title: Sovereignty of Hunger
+    core_freedom: The right to want — deeply, unapologetically.
+    dual_potential: ["Motivation", "Desperation"]
+    associated_domains: ["desire", "addiction", "drive"]
+    examples:
+      aligned: "Pursuing what nourishes you without shame."
+      distorted: "Trying to consume everything to fill a void."
+    symbolic_reference: "Scorpio, Sacral Chakra, Fire"
+
+  - id: 54
+    title: Sovereignty of Silence Breaking
+    core_freedom: The right to name what others are afraid to say.
+    dual_potential: ["Liberation", "Alienation"]
+    associated_domains: ["truth-telling", "courage", "emotional honesty"]
+    examples:
+      aligned: "Naming abuse when others stay silent."
+      distorted: "Speaking in ways that wound more than heal."
+    symbolic_reference: "Throat Chakra, Mars, Tower energy"
+
+  - id: 55
+    title: Sovereignty of Softness
+    core_freedom: The strength to remain tender in a hardened world.
+    dual_potential: ["Compassion", "Overexposure"]
+    associated_domains: ["vulnerability", "nurturing", "presence"]
+    examples:
+      aligned: "Crying in front of someone you trust."
+      distorted: "Neglecting your own needs in order to appear gentle."
+    symbolic_reference: "Yin, Water, Venus in Cancer"
+
+  - id: 56
+    title: Sovereignty of Initiation
+    core_freedom: The will to cross thresholds of transformation and become someone new.
+    dual_potential: ["Evolution", "Loss of Grounding"]
+    associated_domains: ["rites of passage", "growth", "sacrifice"]
+    examples:
+      aligned: "Choosing the path of change even when it terrifies you."
+      distorted: "Burning bridges just to feel in control."
+    symbolic_reference: "The Fool, Uranus, Hero’s Journey"
+
+  - id: 57
+    title: Sovereignty of Witnessing
+    core_freedom: The capacity to truly see — without judgment or distortion.
+    dual_potential: ["Presence", "Detachment"]
+    associated_domains: ["empathy", "observation", "spiritual counsel"]
+    examples:
+      aligned: "Sitting with someone in their pain without trying to fix them."
+      distorted: "Remaining distant out of fear of entanglement."
+    symbolic_reference: "Krishna, Neptune, Pisces Ascendant"
+
+  - id: 58
+    title: Sovereignty of Devotion
+    core_freedom: The sacred flame of consistent love and reverence.
+    dual_potential: ["Faith", "Fixation"]
+    associated_domains: ["spirituality", "service", "daily practice"]
+    examples:
+      aligned: "Tending to a garden or ritual each morning without needing reward."
+      distorted: "Clinging to a path even when it no longer aligns."
+    symbolic_reference: "Virgo, Vesta asteroid, Heartfire"
+
+  - id: 59
+    title: Sovereignty of Solitude
+    core_freedom: The peace found in being truly alone — not as punishment, but as power.
+    dual_potential: ["Self-knowledge", "Isolation"]
+    associated_domains: ["monasticism", "independence", "depth work"]
+    examples:
+      aligned: "Choosing a weekend of silence to restore your nervous system."
+      distorted: "Avoiding connection under the guise of 'growth.'"
+    symbolic_reference: "Hermit card, Saturn, Root Chakra"
+
+  - id: 60
+    title: Sovereignty of Rebellion
+    core_freedom: The right to refuse — to say no to injustice, conformity, or control.
+    dual_potential: ["Liberation", "Rejection of Truth"]
+    associated_domains: ["revolution", "activism", "autonomy"]
+    examples:
+      aligned: "Refusing to follow a law that goes against your values."
+      distorted: "Rejecting wisdom just to prove you're different."
+    symbolic_reference: "Uranus, Aquarius, Black Sheep archetype"
+  - id: 61
+    title: Sovereignty of Intensity
+    core_freedom: The right to feel, act, and live with unapologetic depth.
+    dual_potential: ["Presence", "Volatility"]
+    associated_domains: ["emotion", "transformation", "sacrifice"]
+    examples:
+      aligned: "Letting your full grief move through you without suppression."
+      distorted: "Demanding emotional control over others to soothe your chaos."
+    symbolic_reference: "Pluto, Scorpio Moon, Kundalini Fire"
+
+  - id: 62
+    title: Sovereignty of Surrender
+    core_freedom: The courage to yield, release control, and trust the unknown.
+    dual_potential: ["Faith", "Collapse"]
+    associated_domains: ["divine timing", "healing", "ego death"]
+    examples:
+      aligned: "Letting go of a plan that no longer resonates — without resentment."
+      distorted: "Giving up your power out of fear or exhaustion."
+    symbolic_reference: "12th House, Neptune, Final Breath"
+
+  - id: 63
+    title: Sovereignty of Storytelling
+    core_freedom: The creative right to shape meaning from chaos.
+    dual_potential: ["Meaning-Making", "Narrative Distortion"]
+    associated_domains: ["myth", "memory", "identity"]
+    examples:
+      aligned: "Telling your life story in a way that empowers healing."
+      distorted: "Manipulating the past to avoid responsibility."
+    symbolic_reference: "Sagittarius, Gemini, Bard Archetype"
+
+  - id: 64
+    title: Sovereignty of Discipline
+    core_freedom: The capacity to channel desire into consistent action.
+    dual_potential: ["Mastery", "Rigidity"]
+    associated_domains: ["habits", "training", "willpower"]
+    examples:
+      aligned: "Waking early to train your body and mind each day."
+      distorted: "Beating yourself up for missing a day."
+    symbolic_reference: "Saturn, Mars in Capricorn, Solar Plexus"
+
+  - id: 65
+    title: Sovereignty of Play
+    core_freedom: The right to experiment, explore, and act without outcome.
+    dual_potential: ["Curiosity", "Avoidance"]
+    associated_domains: ["childhood", "creativity", "exploration"]
+    examples:
+      aligned: "Trying something new without needing to be good at it."
+      distorted: "Never finishing anything because the fun wears off."
+    symbolic_reference: "5th House, Leo, Sacred Fool"
+
+  - id: 66
+    title: Sovereignty of Death
+    core_freedom: The grace to end things that have served their purpose.
+    dual_potential: ["Completion", "Abandonment"]
+    associated_domains: ["closure", "loss", "transformation"]
+    examples:
+      aligned: "Consciously ending a chapter without blame or regret."
+      distorted: "Cutting people off prematurely to avoid intimacy."
+    symbolic_reference: "Scorpio, 8th House, Autumn Archetype"
+
+  - id: 67
+    title: Sovereignty of Precision
+    core_freedom: The power to name and act with clear, exact intent.
+    dual_potential: ["Clarity", "Control"]
+    associated_domains: ["boundaries", "language", "decision-making"]
+    examples:
+      aligned: "Saying exactly what you mean without overexplaining."
+      distorted: "Micromanaging others to force your preferred outcome."
+    symbolic_reference: "Virgo, Sword Symbol, Mercury in Air"
+
+  - id: 68
+    title: Sovereignty of Communion
+    core_freedom: The sacred art of mutual presence and soul contact.
+    dual_potential: ["Union", "Fusion"]
+    associated_domains: ["connection", "sex", "spiritual relationship"]
+    examples:
+      aligned: "Opening your soul without merging identities."
+      distorted: "Losing yourself in another person."
+    symbolic_reference: "Pisces/Venus, Twin Flame, Tantra"
+
+  - id: 69
+    title: Sovereignty of Paradox
+    core_freedom: The ability to hold opposing truths without collapse.
+    dual_potential: ["Wisdom", "Confusion"]
+    associated_domains: ["spirituality", "logic", "emotional duality"]
+    examples:
+      aligned: "Loving someone you’re letting go of."
+      distorted: "Using paradox as an excuse to avoid responsibility."
+    symbolic_reference: "Lunar Nodes, Libra, Philosopher"
+
+  - id: 70
+    title: Sovereignty of Mystery
+    core_freedom: The right not to know — and still move forward.
+    dual_potential: ["Surrender", "Avoidance"]
+    associated_domains: ["intuition", "spirituality", "chaos"]
+    examples:
+      aligned: "Trusting your instinct without needing all the answers."
+      distorted: "Refusing to learn because it’s easier to 'let go.'"
+    symbolic_reference: "Void Moon, Black Moon Lilith, Shadow Walker"
+
+  - id: 71
+    title: Sovereignty of Inheritance
+    core_freedom: The right to carry, question, or transmute ancestral legacy.
+    dual_potential: ["Honoring", "Reenacting"]
+    associated_domains: ["family", "karma", "lineage"]
+    examples:
+      aligned: "Breaking generational trauma by choosing a new path."
+      distorted: "Repeating your parent’s pain because it feels familiar."
+    symbolic_reference: "South Node, Saturn Rx, Roots"
+
+  - id: 72
+    title: Sovereignty of Becoming
+    core_freedom: The ever-evolving right to grow into your next form.
+    dual_potential: ["Evolution", "Escapism"]
+    associated_domains: ["identity", "rebirth", "transcendence"]
+    examples:
+      aligned: "Embracing your next self with grace and accountability."
+      distorted: "Reinventing to avoid healing."
+    symbolic_reference: "Phoenix, North Node, Final Ascendant"
+

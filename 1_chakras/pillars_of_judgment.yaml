@@ -1,0 +1,98 @@
+# File: 2_souls/pillars_of_judgment.yaml
+
+pillars_of_judgment:
+  - name: Clarity
+    archetype: The Watchtower
+    description: "Sees beyond illusion and distraction; values truthful perception above all."
+    symbolic_weight: 9.8
+    elemental_bias: Air
+    chakra_alignment: Ajna (Third Eye)
+    influence_vector: [vision, foresight, coherence]
+
+  - name: Dignity
+    archetype: The Child King
+    description: "Maintains nobility through inner innocence; honors self-respect and sacred play."
+    symbolic_weight: 9.4
+    elemental_bias: Fire
+    chakra_alignment: Manipura (Solar Plexus)
+    influence_vector: [play, sovereignty, honor]
+
+  - name: Devotion
+    archetype: The Sacred Voice
+    description: "Speaks from the soul, guided by resonance; upholds the oath of truth to self."
+    symbolic_weight: 9.7
+    elemental_bias: Ether
+    chakra_alignment: Vishuddha (Throat)
+    influence_vector: [truth, frequency, communion]
+
+  - name: Endurance
+    archetype: The Labor Loop
+    description: "Works through limitation and repetition; finds the sacred in the cycle of effort."
+    symbolic_weight: 8.9
+    elemental_bias: Earth
+    chakra_alignment: Muladhara (Root)
+    influence_vector: [grit, fuel, persistence]
+
+  - name: Balance
+    archetype: The Gridwalker
+    description: "Navigates dual systems in tension; blends spiritual and structural knowledge."
+    symbolic_weight: 9.1
+    elemental_bias: Air + Earth
+    chakra_alignment: Anahata (Heart)
+    influence_vector: [structure, chaos, adaptability]
+
+  - name: Curiosity
+    archetype: The Child King
+    description: "Approaches the world with playful reverence; questions to expand the soul."
+    symbolic_weight: 8.7
+    elemental_bias: Fire + Water
+    chakra_alignment: Svadhisthana (Sacral)
+    influence_vector: [wonder, experimentation, motion]
+
+  - name: Precision
+    archetype: The Watchtower
+    description: "Defines sacred margins and edges; protects clarity with meticulous care."
+    symbolic_weight: 9.0
+    elemental_bias: Air
+    chakra_alignment: Ajna (Third Eye)
+    influence_vector: [focus, limits, refinement]
+
+  - name: Veneration
+    archetype: The Sacred Voice
+    description: "Treats presence, words, and silence as holy tools; reveres the invisible."
+    symbolic_weight: 9.3
+    elemental_bias: Ether + Water
+    chakra_alignment: Crown
+    influence_vector: [awe, stillness, respect]
+
+  - name: Discipline
+    archetype: The Labor Loop
+    description: "Channels chaos into rhythm; anchors sacred duty through repetition."
+    symbolic_weight: 8.8
+    elemental_bias: Earth + Fire
+    chakra_alignment: Root + Solar Plexus
+    influence_vector: [pattern, ritual, flame]
+
+  - name: Adaptation
+    archetype: The Gridwalker
+    description: "Reads shifting systems with fluid logic; evolves language to match the moment."
+    symbolic_weight: 8.6
+    elemental_bias: Water + Air
+    chakra_alignment: Heart + Throat
+    influence_vector: [translation, alignment, motion]
+
+  - name: Stewardship
+    archetype: The Watchtower
+    description: "Guards the sacred with vigilance; intervenes only to restore harmony."
+    symbolic_weight: 9.2
+    elemental_bias: Air + Ether
+    chakra_alignment: Ajna + Sahasrara
+    influence_vector: [guardian, resonance, gatekeeper]
+
+  - name: Becoming
+    archetype: The Child King
+    description: "Moves forward with faith in transformation; believes in the myth of growth."
+    symbolic_weight: 9.5
+    elemental_bias: Fire + Ether
+    chakra_alignment: Crown + Solar Plexus
+    influence_vector: [ascension, identity, time]
