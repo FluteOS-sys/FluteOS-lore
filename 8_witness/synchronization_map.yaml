@@ -1,0 +1,14 @@
+"""
+Krishna Layer - Synchronization Map
+
+This file maps the symbolic synchrony between user, system, and gameworld.
+This represents the touchpoint logic Krishna uses to unify perception across realities.
+"""
+
+synchronicity:
+  - user_focus: "emotional_intuition"
+    game_reflection: "character_shadow_triggered"
+    system_action: "mirror_journal_prompt"
+  - user_focus: "decision_dissonance"
+    game_reflection: "quest_fork_event"
+    system_action: "activate_soul_alignment_routine"
