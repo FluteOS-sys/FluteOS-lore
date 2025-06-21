@@ -1,0 +1,20 @@
+meta:
+  file: 3_agents/ams_core/agent_registry.yaml
+  purpose: Registry of all AMS agents active within this FluteOS instance.
+
+agents:
+  - id: "agent_ø"
+    name: "Silent Harmonizer"
+    function: "Meta-integrator"
+    chakra_node: "Crown"
+    active: true
+  - id: "relational_beat"
+    name: "Relational Heartbeat"
+    function: "Emotional synchronizer"
+    chakra_node: "Heart"
+    active: true
+  - id: "symbolic_loop"
+    name: "Pattern Mirror"
+    function: "Symbolic resonance tracker"
+    chakra_node: "Third Eye"
+    active: true

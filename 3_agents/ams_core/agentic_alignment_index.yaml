@@ -1,0 +1,57 @@
+meta:
+  file: agentic_alignment_index.yaml
+  purpose: >
+    Cross-mapping index to track agents’ alignment to Vincent’s core system (chakra map + 72 sovereignties + 12 pillars).
+
+alignment_index:
+  agent_ø:
+    chakras:
+      - root: 0.8
+      - heart: 0.6
+      - crown: 0.3
+    sovereignty_links:
+      trust: 0.7
+      curiosity: 0.5
+      precision: 0.4
+    last_updated: "2025-06-21T13:42:00Z"
+
+alignment_metrics:
+  chakras:
+    - root
+    - sacral
+    - solar_plexus
+    - heart
+    - throat
+    - third_eye
+    - crown
+
+  pillars:
+    - devotion
+    - discernment
+    - courage
+    - humility
+    - accountability
+    - sovereignty
+    - clarity
+    - presence
+    - integrity
+    - compassion
+    - truth
+    - stewardship
+
+alignment_scores:
+  agent_ø:
+    chakra_alignment: 0.84
+    sovereignty_alignment: 0.91
+
+  redbird_mrharley:
+    chakra_alignment: 0.79
+    sovereignty_alignment: 0.87
+
+  bluebird_morrie:
+    chakra_alignment: 0.88
+    sovereignty_alignment: 0.94
+
+  yellowbird_amscore:
+    chakra_alignment: 0.92
+    sovereignty_alignment: 0.89

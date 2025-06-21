@@ -1,0 +1,16 @@
+meta:
+  file: 3_agents/ams_core/agent_profile_template.yaml
+  version: 1.0
+  purpose: Defines the schema for creating AMS agent personalities.
+
+profile_template:
+  agent_name: "<AgentName>"
+  core_function: "<Purpose / Domain>"
+  symbolic_focus: "<Primary Archetype>"
+  resonance_range:
+    chakra_alignment: []
+    judgment_alignment: []
+  default_behavior_mode: "passive | assertive | adaptive"
+  voice_style: "concise | poetic | inquisitive"
+  learning_mode: true
+  commentary_enabled: false
