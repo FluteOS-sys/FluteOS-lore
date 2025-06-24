@@ -1,0 +1,22 @@
+supportive_pairs:
+  - [phoenix, void]        # rebirth from emptiness
+  - [mirror, feather]      # self-reflection with grace
+  - [seed, serpent]        # potential guided by primal knowledge
+  - [fire, root]           # grounded transformation
+
+conflicting_pairs:
+  - [cage, phoenix]        # restriction vs liberation
+  - [void, mirror]         # absence vs reflection can nullify insight
+  - [serpent, feather]     # instinct may devour guidance
+  - [fire, water]          # elemental tension — requires a bridge
+
+neutral_symbols:
+  - dream
+  - breath
+  - spiral
+  - ink
+
+resonance_rules:
+  - If 3+ conflicting symbols appear within short time span → flag `internal_dissonance`
+  - If supportive pairs echo in sequence → flag `deep_alignment`
+  - If symbols loop without variation → flag `stagnation`
