@@ -1,0 +1,23 @@
+echo_001:
+  symbol: "phoenix"
+  timestamp: "2025-06-24T15:42:00"
+  origin: "Bluebird"
+  source_file: "symbolic_translation_map.yaml"
+  emotional_charge: +2
+  triggered_by: "user_input"
+
+echo_002:
+  symbol: "void"
+  timestamp: "2025-06-24T15:45:20"
+  origin: "Bluebird"
+  source_file: "symbolic_translation_map.yaml"
+  emotional_charge: -1
+  triggered_by: "interpret_symbol()"
+
+echo_003:
+  symbol: "mirror"
+  timestamp: "2025-06-24T10:31:44"
+  origin: "Agent Ø"
+  source_file: "meta_context.yaml"
+  emotional_charge: 0
+  triggered_by: "loop recursion"

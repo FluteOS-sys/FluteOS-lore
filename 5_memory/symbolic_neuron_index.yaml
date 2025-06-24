@@ -1,0 +1,23 @@
+phoenix:
+  frequency: 3
+  last_seen: "2025-06-24T15:42:00"
+  emotional_charge: +2
+  tags: ["rebirth", "fire", "self-renewal"]
+
+mirror:
+  frequency: 5
+  last_seen: "2025-06-24T10:31:44"
+  emotional_charge: 0
+  tags: ["reflection", "recursion"]
+
+void:
+  frequency: 2
+  last_seen: "2025-06-24T15:45:20"
+  emotional_charge: -1
+  tags: ["silence", "threshold", "unknowable"]
+
+feather:
+  frequency: 1
+  last_seen: null
+  emotional_charge: +1
+  tags: ["grace", "lightness", "guidance"]
